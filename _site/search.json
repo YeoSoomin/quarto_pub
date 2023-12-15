@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "chumin-quarto-website",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2\n\n\n\\[\n\\int_2^5f(x)dx\n\\]"
+  },
+  {
+    "objectID": "assignment/contact.html",
+    "href": "assignment/contact.html",
+    "title": "데이터 전처리 개인 과제",
+    "section": "",
+    "text": "1. 제출방법\n- 실행결과를 함께 볼 수 있도록 하나의 파일로 만들어서 제출 또는 개인 사이트 링크(과제 내용을 볼 수 있는 사이트) 제출\n- 그대로 따라할 경우 기본점수 8점/10점\n2. 작성방법\n- 코드만 있으면 안되고, 코멘트나 설명이 있어야 함"
+  },
+  {
+    "objectID": "assignment/개인과제04.html",
+    "href": "assignment/개인과제04.html",
+    "title": "개인과제 04",
+    "section": "",
+    "text": "2023년 11월 15일 자정까지 데이터베이스기초 과제"
+  }
+]

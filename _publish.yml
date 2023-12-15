@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 0126fafe-d976-4bcb-9db9-966cc783050b
+      url: 'https://chumin.quarto.pub/chumin-quarto-website'
